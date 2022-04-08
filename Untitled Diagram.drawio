@@ -1,1 +1,95 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T10:48:29.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" version="17.4.0" etag="kpbuEAX8oi4v4QfjQhcz" type="github"><diagram id="NCl2auE78SHJ0GfqlsIs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-08T02:12:43.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="JyIu4yWrJoLzJPdUnPI9" version="17.4.0" type="github">
+  <diagram id="NCl2auE78SHJ0GfqlsIs" name="Page-1">
+    <mxGraphModel dx="1298" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-1" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="305" width="300" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-2" value="业务代码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="353.13" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="372.19" width="110" height="71.88" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EdEhTM9U82BXV9ETqlIv-2" target="EdEhTM9U82BXV9ETqlIv-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-5" value="查询密钥" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EdEhTM9U82BXV9ETqlIv-4">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-6" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="468" y="297.5" width="140" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-7" value="KMS Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="503" y="308.75" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-8" value="密钥管理服务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="478" y="385.63" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-9" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="298.75" width="140" height="212.5" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-10" value="DB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="306.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-11" value="密钥/凭据库" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="385.63" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-12" value="KMS Web&lt;br&gt;&amp;nbsp;模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="920" y="336.25" width="80" height="143.75" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EdEhTM9U82BXV9ETqlIv-12" target="EdEhTM9U82BXV9ETqlIv-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EdEhTM9U82BXV9ETqlIv-8" target="EdEhTM9U82BXV9ETqlIv-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-16" value="查询密钥" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EdEhTM9U82BXV9ETqlIv-3" target="EdEhTM9U82BXV9ETqlIv-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-17" value="Cache" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="303" y="407" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-18" value="KMS SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="275" y="380" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-19" value="管理端api" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="900" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EdEhTM9U82BXV9ETqlIv-19" target="EdEhTM9U82BXV9ETqlIv-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="570" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-26" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal&quot;&gt;&lt;font face=&quot;PingFang SC&quot;&gt;密钥的增删改查&lt;/font&gt;&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EdEhTM9U82BXV9ETqlIv-20">
+          <mxGeometry x="-0.0286" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EdEhTM9U82BXV9ETqlIv-21" target="EdEhTM9U82BXV9ETqlIv-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EdEhTM9U82BXV9ETqlIv-21" value="密钥管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
